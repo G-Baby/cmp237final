@@ -1,8 +1,13 @@
-<button>Click me</button>
+<button1>Button1</button1> <button>Button2</button> <button3>Button3</button3>
 <p>No handler here.</p>
 <script>
-  var button = document.querySelector("button");
+  var button = document.querySelector("button1");
   button.addEventListener("click", function() {
-    console.log("Button clicked.");
+    console.log("Button1 clicked.");
+  });
+  
+  var button = document.querySelector("button3");
+  button.addEventListener("click", function() {
+    console.log("Button3 clicked.");
   });
 </script>
