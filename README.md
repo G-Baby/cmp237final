@@ -1,3 +1,3 @@
 # cmp237final
 Base code for CMP237 final exam term 142
-Did the Modify Color and Modify Date
+Did the Modify Color and Modify Date. modify button is bonus
